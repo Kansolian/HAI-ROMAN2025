@@ -1,1 +1,3 @@
-
+Experiment files contain data with all the human interactions.
+ExperimentnotHuman files contain data with all the algorithms playing against eachother.
+ExperimentSim and ExperimentSimPart3 contain robotic simulator data.
